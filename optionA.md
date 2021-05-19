@@ -11,7 +11,7 @@
 <br>  
 <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 <a href="https://www.kaggle.com/ultralytics/yolov5"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
-<a href="https://hub.docker.com/r/ultralytics/yolov5"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov5?logo=docker&label=Pull%20Docker" alt="Docker Pulls"></a>
+<a href="https://hub.docker.com/r/ultralytics/yolov5"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov5?logo=docker&label= Pull%20Docker" alt="Docker Pulls"></a>
 </div>
 
 <br>
@@ -26,7 +26,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 * [Full Documentation](https://docs.ultralytics.com)
 
 ## <div align="center">Quick Start Tutorials</div>
-These tutorials are intended to get you started using YOLOv5 quickly for demonstration purposes. Head to the Full Documentation](https://docs.ultralytics.com) for more indept tutorials
+These tutorials are intended to get you started using YOLOv5 quickly for demonstration purposes. Head to the [Full Documentation](https://docs.ultralytics.com) for more indept tutorials
 <details>
 <summary>
 Install Locally
