@@ -23,11 +23,9 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 *Note : YOLOv5 is current **under active development**, all code, models, and documentation are subject to modification or deletion without notice. __Use at your own risk.__*
 
 ## <div align="center">Documentation</div>
----
 * [Full Documentation](https://docs.ultralytics.com)
 
 ## <div align="center">Quick Start Tutorials</div>
----
 These tutorials are intended to get you started using YOLOv5 quickly for demonstration purposes. Head to the Full Documentation](https://docs.ultralytics.com) for more indept tutorials
 <details>
 <summary>
@@ -98,15 +96,12 @@ $ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 
 </details>
 
 ## <div align="center">Why YOLOv5</div>
----
 test
 
 ## <div align="center">Getting Involved</div>
----
 
 Issues should be raised directly in the repository.
 
 ## <div align="center">Get in Touch</div>
----
 
 For business or professional support requests please visit [https://ultralytics.com/contact](https://ultralytics.com/contact)
