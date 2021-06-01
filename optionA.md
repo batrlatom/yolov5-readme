@@ -57,7 +57,7 @@ $ python detect.py --source 0  # webcam
 ```
 
 </details>
-<details>
+<details open>
 <summary>Inference Using PyTorch Hub</summary>
 
 This tutorial will automatically download YOLOv5 to your local system before running inference on the supplied image.  
