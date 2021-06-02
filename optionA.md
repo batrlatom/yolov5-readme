@@ -108,7 +108,7 @@ $ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 
 
   
 ## <div align="center">Easy integrations</div>
-YOLOv5 integrates easily with <b>[Wand & Biases](https://github.com/ultralytics/yolov5/issues/1289)</b> and [Supervise.ly](https://github.com/ultralytics/yolov5/issues/2518). Integration with [AWS](https://github.com/ultralytics/yolov5/wiki/AWS-Quickstart) and [Google cloud](https://github.com/ultralytics/yolov5/wiki/GCP-Quickstart) takes only few minutes.
+YOLOv5 🚀 integrates easily with <b>[Wand & Biases](https://github.com/ultralytics/yolov5/issues/1289)</b> and [Supervise.ly](https://github.com/ultralytics/yolov5/issues/2518). Integration with [AWS](https://github.com/ultralytics/yolov5/wiki/AWS-Quickstart) and [Google cloud](https://github.com/ultralytics/yolov5/wiki/GCP-Quickstart) takes only few minutes.
   
   <br/>
 
