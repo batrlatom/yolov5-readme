@@ -1,4 +1,4 @@
-# [YOLOv5](https://ultralytics.com/yolov5) by [Ultralytics](https://ultralytics.com)
+# [YOLOv5](https://ultralytics.com/yolov5) 🚀 by [Ultralytics](https://ultralytics.com)
 
 <div align="center">
 <p>
@@ -112,7 +112,7 @@ YOLOv5 integrates easily with <b>[Wand & Biases](https://github.com/ultralytics/
   
   <br/>
 
-  ## <div align="center">Make YOLOv5 better and win</div>
+  ## <div align="center">Make YOLOv5 🚀 better and win</div>
   <p>
 <img src="assets/img/export_competition_banner.png" />
 </p> 
