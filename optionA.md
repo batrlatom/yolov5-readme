@@ -14,6 +14,7 @@
 <a href="https://hub.docker.com/r/ultralytics/yolov5"><img src="https://img.shields.io/docker/pulls/ultralytics/yolov5?logo=docker" alt="Docker Pulls"></a>
 </div>
 
+
 <br>
 <p>
 YOLOv5 is a family of object detection architectures and models pretrained on the COCO dataset.
@@ -26,7 +27,7 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 * [Full Documentation](https://docs.ultralytics.com)
 
 ## <div align="center">Quick Start Tutorials</div>
-These tutorials are intended to get you started using YOLOv5 quickly for demonstration purposes. Head to the [Full Documentation](https://docs.ultralytics.com) for more indept tutorials
+These tutorials are intended to get you started using YOLOv5 quickly for demonstration purposes. Head to the [Full Documentation](https://docs.ultralytics.com) for more indept tutorials. You can test YOLOv5 with [Ultralytics API](https://ultralytics.com/yolov5), no coding required.
 <details>
 <summary>
 Install Locally
@@ -95,6 +96,15 @@ $ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 
 
 </details>
 
+  
+  
+  ## <div align="center">Help community and win</div>
+  <p>
+<img src="assets/img/export_competition_banner.png" />
+</p>
+ 
+ 
+
 ## <div align="center">Why YOLOv5</div>
 
 Here we put some salespeak...
@@ -125,7 +135,9 @@ Model |size<br><sup>(pixels) |mAP<sup>val<br>0.5:0.95 |mAP<sup>test<br>0.5:0.95 
 
 ## <div align="center">Getting Involved</div>
 
-Issues should be raised directly in the repository.
+We are growing quickly and have new [positions](https://startupmatcher.com/s/ultralytics) opened. Be a part of our team!
+<br/>  
+Contributors should raise issues directly in the repository. 
 
 ## <div align="center">Get in Touch</div>
 
