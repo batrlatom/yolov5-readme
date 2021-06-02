@@ -30,6 +30,16 @@ YOLOv5 is a family of object detection architectures and models pretrained on th
 These tutorials are intended to get you started using YOLOv5 quickly for demonstration purposes. Head to the [Full Documentation](https://docs.ultralytics.com) for more indept tutorials. You can test YOLOv5 with [Ultralytics API](https://ultralytics.com/yolov5), no coding required.
 <details>
 <summary>
+Install with Docker
+</summary>  
+
+```bash
+sudo docker pull ultralytics/yolov5:latest
+```
+find more details in our [docker tutorial](https://github.com/ultralytics/yolov5/wiki/Docker-Quickstart)
+</details>
+<details>
+<summary>
 Install Locally
 </summary>
 
@@ -97,22 +107,28 @@ $ python train.py --data coco.yaml --cfg yolov5s.yaml --weights '' --batch-size 
 </details>
 
   
+## <div align="center">Easy integrations</div>
+YOLOv5 integrates easily with <b>[Wand & Biases](https://github.com/ultralytics/yolov5/issues/1289)</b> and [Supervise.ly](https://github.com/ultralytics/yolov5/issues/2518). Integration with [AWS](https://github.com/ultralytics/yolov5/wiki/AWS-Quickstart) and [Google cloud](https://github.com/ultralytics/yolov5/wiki/GCP-Quickstart) takes only few minutes.
   
-  ## <div align="center">Help community and win</div>
+  <br/>
+
+  ## <div align="center">Make YOLOv5 better and win</div>
   <p>
 <img src="assets/img/export_competition_banner.png" />
-</p>
- 
- 
+</p> 
+<br/>
+
 
 ## <div align="center">Why YOLOv5</div>
 
-Here we put some salespeak...
+Because we improve every day, we constantly listen to you and bring you a solution that makes your work easier
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/26833433/114313216-f0a5e100-9af5-11eb-8445-c682b60da2e3.png">
 </div>
 
+
+<br/>
 ### Pretrained Checkpoints
 
 
@@ -132,6 +148,7 @@ Model |size<br><sup>(pixels) |mAP<sup>val<br>0.5:0.95 |mAP<sup>test<br>0.5:0.95 
 
 
 
+<br/>
 
 ## <div align="center">Getting Involved</div>
 
