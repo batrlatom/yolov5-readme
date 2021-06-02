@@ -112,7 +112,7 @@ YOLOv5 🚀 integrates easily with <b>[Wand & Biases](https://github.com/ultraly
   
   <br/>
 
-  ## <div align="center">Make YOLOv5 better and win</div>
+  ## <div align="center">Contribute and win</div>
   <p>
 <img src="assets/img/export_competition_banner.png" />
 </p> 
