@@ -114,7 +114,10 @@ YOLOv5 🚀 integrates easily with <b>[Wand & Biases](https://github.com/ultraly
 
   ## <div align="center">Contribute and win</div>
   <p>
-<img src="assets/img/export_competition_banner.png" />
+  We are super excited to announce the first-ever Ultralytics YOLOv5 rocket EXPORT Competition with $10,000.00 in cash prizes!!!
+</p> 
+<p> 
+  <a src="https://github.com/ultralytics/yolov5/discussions/3213"><img src="assets/img/export_competition_banner.png" /></a>
 </p> 
 <br/>
 
