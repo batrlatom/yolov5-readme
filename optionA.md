@@ -136,6 +136,7 @@ Because we improve every day, we constantly listen to you and bring you a soluti
 
 ### Pretrained Checkpoints
 
+[assets]: https://github.com/ultralytics/yolov5/releases
 
 Model |size<br><sup>(pixels) |mAP<sup>val<br>0.5:0.95 |mAP<sup>test<br>0.5:0.95 |mAP<sup>val<br>0.5 |Speed<br><sup>V100 (ms) | |params<br><sup>(M) |FLOPS<br><sup>640 (B)
 ---   |---  |---        |---         |---             |---                |---|---              |---
